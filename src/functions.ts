@@ -15,6 +15,6 @@ function addNumber(x: number, y: number): number {
     return "felipe";
     }
 
-    let soma: number = addNumber(4, 7);
+    let soma: number = addNumber(4, 9);
     
     console.log();
